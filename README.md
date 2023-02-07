@@ -1,5 +1,3 @@
-# My Profile
-
 # Hey!! Great to see you here! <img src="/src/wave.gif" width="30px" height="30px">
 
 * 📖 Sou estudante de Pedagogia mas estudo também programação 💻.
