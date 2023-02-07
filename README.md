@@ -5,7 +5,7 @@
 
 * Minhas redes sociais:
 
-<p align="center">
+<p align="left">
 	<a href="https://www.linkedin.com/in/sheezarainbow/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 	</a>
