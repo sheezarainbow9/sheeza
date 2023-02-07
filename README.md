@@ -3,7 +3,7 @@
 * 📖 Sou estudante de Pedagogia mas estudo também programação 💻 
 
 
-* Minhas redes sociais:
+### Minhas redes sociais:
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/sheezarainbow/">
